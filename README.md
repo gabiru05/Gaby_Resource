@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/gabiru05/Gaby_Resource/blob/master/images/BingAi/Ship-png.png" alt="Takoizu bot " width="150">
+  <img src="https://github.com/gabiru05/Gaby_Resource/blob/master/images/BingAi/resource.jpg" alt="boxes with a computer extracting data from this on a white background, retro futurism  " width="150">
   <br>
   Recursos para usar en proyectos
 </h1>
